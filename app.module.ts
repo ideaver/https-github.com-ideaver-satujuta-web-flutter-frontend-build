@@ -5,7 +5,7 @@ import { join } from 'path';
 @Module({
   imports: [
     ServeStaticModule.forRoot({
-      rootPath: join('public-flutter'),
+      rootPath: join(__dirname, 'public-flutter'),
     }),
   ],
 })
