@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e05e9298762d68af5fcd80b9745acda2",
-"assets/AssetManifest.bin.json": "e654a0e342cf3f1b6600d28e50b5d999",
-"assets/AssetManifest.json": "8c47643f6c1b76855827569499da44a7",
+const RESOURCES = {"assets/AssetManifest.bin": "4c8c11627399b5c0b85dac7e998cf2ad",
+"assets/AssetManifest.bin.json": "e216affec40ba8053542e83a33dc7c5a",
+"assets/AssetManifest.json": "dff40741b9500cb7fc4ad16add3f6a5c",
 "assets/assets/background/bg-subject.png": "4b4dab39a8c615d0c401605d0f461aff",
 "assets/assets/background/user/Ellipse-1952.png": "2c9442d5c29cdd62ba179483f0a1c108",
 "assets/assets/background/user/Ellipse-1953.png": "3c93e18106ee5bb0d779b235b62fc2a6",
@@ -127,9 +127,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e05e9298762d68af5fcd80b9745acda2
 "assets/assets/logo/long-logo.png": "e0a3757b238423376bc94fc171609dde",
 "assets/assets/logo/short-logo.png": "09abb88aafe67fa0829726108099e8ec",
 "assets/FontManifest.json": "2e49f32437b408142a173fac6cda59f9",
-"assets/fonts/MaterialIcons-Regular.otf": "eb2d99057f5b2267078654d59a694752",
-"assets/NOTICES": "86bfa6c4db1179424478fef3e5ea05c9",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "51cb25d837b2f417eaf41b750634fda4",
+"assets/fonts/MaterialIcons-Regular.otf": "1ab4bb69b909b7e28e92da02ff737e8c",
+"assets/NOTICES": "56b43f57818c600aedbd85fcdaf29404",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "8042ad22d18d9b3285fe7b5cd9626a8e",
 "assets/packages/flex_color_picker/assets/opacity.png": "49c4f3bcb1b25364bb4c255edcaaf5b2",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "ec6cc114195fbeef7767f059790356fd",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
@@ -143,6 +143,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "e05e9298762d68af5fcd80b9745acda2
 "assets/packages/html_editor_enhanced/assets/summernote-lite.min.js": "4fe75f9b35f43da141d60d6a697db1c1",
 "assets/packages/html_editor_enhanced/assets/summernote-no-plugins.html": "89ca56cd85a91f1dc39f5413204e24d0",
 "assets/packages/html_editor_enhanced/assets/summernote.html": "8ce8915ee5696d3c568e94911eb0d9bf",
+"assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/canvaskit.wasm": "73584c1a3367e3eaf757647a8f5c5989",
@@ -156,12 +157,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "e05e9298762d68af5fcd80b9745acda2
 "icons/Icon-512.png": "09abb88aafe67fa0829726108099e8ec",
 "icons/Icon-maskable-192.png": "09abb88aafe67fa0829726108099e8ec",
 "icons/Icon-maskable-512.png": "09abb88aafe67fa0829726108099e8ec",
-"index.html": "26c74ba4ba245e41547fb8b4bf1fce86",
-"/": "26c74ba4ba245e41547fb8b4bf1fce86",
-"main.dart.js": "ec86804ac03a2e1ec141c558749490a9",
+"index.html": "062d479ab9c95bfaff4faffd4038d0b2",
+"/": "062d479ab9c95bfaff4faffd4038d0b2",
+"main.dart.js": "08e965a0ae29226d8b910769455bd28e",
 "manifest.json": "6a741a4b483a9e3fde36491d7ebf9e03",
-"satujuta_web_v1.0.0.zip": "464d9d676e5564530e61e43203c69c20",
-"version.json": "49ad9b22b00e9723a218bc030ecd5b5f",
+"version.json": "3d51f2ea0d718acfd789d4d2b61e41db",
 "_favicon.png": "59311ef57b894dffccb4e99bdeb0ba55"};
 // The application shell files that are downloaded before a service worker can
 // start.
