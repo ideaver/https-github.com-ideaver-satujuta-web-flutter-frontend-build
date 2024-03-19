@@ -1,6 +1,6 @@
 {
-    "name": "satujuta_web_frontend",
-    "short_name": "satujuta_web_frontend",
+    "name": "SatuJuta",
+    "short_name": "SatuJuta",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
